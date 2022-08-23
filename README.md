@@ -9,7 +9,10 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,nodejs,php,lua,html,css,bootstrap,mysql,vuejs,react,git,github)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,nodejs,php,html,css,bootstrap,mysql,git,github)](https://skillicons.dev)<br>
+Estas são algumas das tecnologias e ferramentas que estudo atualmente:
+
+[![Meus Estudos](https://skillicons.dev/icons?i=js,nodejs,lua,vuejs,react)](https://skillicons.dev)
 </div>
   
   ##
