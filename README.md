@@ -12,7 +12,7 @@ Sou Desenvolvedor Backend e Mobile, com paixão por resolver problemas complexos
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,nodejs,php,laravel,dart,flutter)](https://skillicons.dev)<br>
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,php,laravel,dart,flutter)](https://skillicons.dev)<br>
 
 <div> 
   <a href="https://instagram.com/issetsandrin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
