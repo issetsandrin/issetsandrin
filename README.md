@@ -1,37 +1,40 @@
-# 👋 Ei! Eu sou o Vitor  
+## 👋 Hello! I'm Vitor
 
-Desenvolvedor Backend e Mobile nas horas vagas (ou seja, basicamente o tempo todo). Entre APIs que funcionam como mágica e aplicativos que dão gosto de usar, estou sempre tentando resolver problemas de forma prática e, claro, sem quebrar nada... quase nunca. 😅  
-
-Atualmente, faço malabarismos com **Laravel** no backend e **Flutter** no mobile. É tipo juntar pão com manteiga: simples, funcional e delicioso (para devs).  
-
-Quando não estou codando, provavelmente estou tentando descobrir *"por que esse bug não acontece no meu ambiente?"* ou tomando café para sobreviver ao próximo deploy.  
-
-Se acha que código também é poesia (mesmo cheia de ifs e elses), bora trocar umas ideias! 😄  
+I am a **Backend and Mobile Developer**, with expertise in **PHP (Laravel)** and **Flutter/Dart**.  
+I specialize in developing and maintaining robust **RESTful APIs**, integrating with **ERPs**, and managing **databases** for high-performance applications.  
+Additionally, I bring strong knowledge in **server management** and **infrastructure**, ensuring secure and reliable deployments.
 
 ---
 
-<div align="center">
-  <a href="https://github.com/issetsandrin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=issetsandrin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issetsandrin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### ⚡ **Skills & Expertise:**
+
+Below are some of the key **technologies and skills** I work with:
+
+#### **Backend Development**
+🔹 PHP (Laravel): API development, maintenance, and feature implementation  
+🔹 Database Expertise: Design, optimization, and management (SQL)  
+🔹 ERP Integrations: Seamless integration with third-party systems  
+🔹 Testing: Unit, integration, and end-to-end testing for reliability and quality assurance  
+
+#### **Mobile Development**
+🔹 Flutter/Dart: Cross-platform mobile application development  
+
+#### **Infrastructure & Security**
+🔹 Server Management: Setup, optimization, and maintenance  
+🔹 Infrastructure Management: Ensuring secure and scalable environments  
 
 ---
 
-## ⚡ Stacks de tecnologia que eu chamo de casa:  
+### 🚀 **Technologies & Tools**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,php,laravel,dart,flutter)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=php,flutter,dart,laravel,sql,docker,linux)](https://skillicons.dev)  
 
 ---
 
-## 🌎 Bora se conectar?  
-
-Curto trocar uma ideia sobre código, projetos e até mesmo aqueles bugs que só aparecem quando tem gente assistindo.  
+### 📫 **Let's Connect!**
 
 <div> 
-  <a href="https://instagram.com/issetsandrin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:sandrinfreel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-sandrin-17b730170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>  
-
----
+  <a href="https://www.instagram.com/eduardozacchi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:edzacchi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-ferreira-de-macedo-zacchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
