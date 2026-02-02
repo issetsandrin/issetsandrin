@@ -42,4 +42,4 @@ Tecnologias e competências nas quais possuo **experiência sólida em ambientes
 
 ### 🚀 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,flutter,dart,postgres,sql,docker,nginx,fpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,flutter,dart,postgres,sqlite,docker,nginx)](https://skillicons.dev)
